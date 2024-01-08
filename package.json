@@ -17,15 +17,15 @@
     "raw": "react-native-new-toast@1.0.0",
     "name": "react-native-new-toast",
     "escapedName": "react-native-new-toast",
-    "rawSpec": "1.2.0",
+    "rawSpec": "1.0.0",
     "saveSpec": null,
-    "fetchSpec": "1.2.0"
+    "fetchSpec": "1.0.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/react-native-new-toast/-/react-native-new-toast-1.0.0.tgz",
-  "_spec": "1.2.0",
+  "_spec": "1.0.0",
   "_where": "/Users/user/Desktop/GitOnlyRN/CryptoWallet/TradeStrike",
   "author": {
     "name": "crazycodeboy"
@@ -61,7 +61,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "types": "index.d.ts",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "react-native": {
     "constants": "constants-browserify",
     "crypto": "react-native-crypto",
