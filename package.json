@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      "react-native-new-toast@1.0.0",
+      "/Users/user/Desktop/GitOnlyRN/CryptoWallet/TradeStrike"
+    ]
+  ],
+  "_from": "react-native-new-toast@1.0.0",
+  "_id": "react-native-new-toast@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-UtpxnRn1ME+035Uey4VR+9K0P4aVoTcWNOx5QkioWBe3LBKMPb/kZjrQ1LtvWzOyeGP4TeTUTtMX3IOPWv5MtA==",
+  "_location": "/react-native-new-toast",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-new-toast@1.0.0",
+    "name": "react-native-new-toast",
+    "escapedName": "react-native-new-toast",
+    "rawSpec": "1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "1.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-new-toast/-/react-native-new-toast-1.0.0.tgz",
+  "_spec": "1.2.0",
+  "_where": "/Users/user/Desktop/GitOnlyRN/CryptoWallet/TradeStrike",
+  "author": {
+    "name": "crazycodeboy"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "description": "A react native module to show toast like android, it works on iOS and Android.",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-toast",
+    "toast",
+    "toast-ios",
+    "alert",
+    "react-component",
+    "navigator",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-new-toast",
+  "peerDependencies": {
+    "react-native": ">=0.20.0",
+    "prop-types": "^15.5.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munishantier/react-native-new-toast.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "version": "1.2.0",
+  "react-native": {
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "http": "@tradle/react-native-http",
+    "https": "https-browserify",
+    "os": "react-native-os",
+    "path": "path-browserify",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  },
+  "browser": {
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "http": "@tradle/react-native-http",
+    "https": "https-browserify",
+    "os": "react-native-os",
+    "path": "path-browserify",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  }
+}
